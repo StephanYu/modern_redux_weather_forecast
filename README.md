@@ -8,14 +8,14 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 ```
 	> git clone git@github.com:StephanYu/modern_redux_weather_forecast.git
 	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
+	> yarn install
+	> yarn start
 ```
 
 ####Not Familiar with Git?#####
 Click [here](https://github.com/StephanYu/modern_redux_weather_forecast) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
 
 ```
-	> npm install
-	> npm start
+	> yarn install
+	> yarn start
 ```
